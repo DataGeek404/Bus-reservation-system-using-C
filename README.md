@@ -1,2 +1,2 @@
 # BusReservationUsingC-
-This developed by UdayKiranKumar
+This developed by Muchiri James 
